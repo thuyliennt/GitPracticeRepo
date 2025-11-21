@@ -1,1 +1,2 @@
 Test file
+Add a line append to the end
